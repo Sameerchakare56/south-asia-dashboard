@@ -91,13 +91,15 @@ The dataset is used for generating interactive visualizations and analysis.
 
 Example:
 
-```
-<img width="1913" height="895" alt="Screenshot 2026-07-19 173920" src="https://github.com/user-attachments/assets/00b10933-9d25-43d8-8286-962252284d0e" />
+## 📸 Dashboard Preview
 
-```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43a74928-8600-4cd9-8978-f7dadfc25f44" width="900" alt="Dashboard Home">
+</p>
 
-```markdown<img width="1896" height="877" alt="Screenshot 2026-07-19 173829" src="https://github.com/user-attachments/assets/43a74928-8600-4cd9-8978-f7dadfc25f44" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00b10933-9d25-43d8-8286-962252284d0e" width="900" alt="Dashboard Analysis">
+</p>
 ```
 
 
